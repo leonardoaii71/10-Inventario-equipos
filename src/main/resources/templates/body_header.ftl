@@ -1,5 +1,4 @@
 <!-- start: header -->
-
 <header class="header">
     <div class="logo-container">
         <a href="../" class="logo">

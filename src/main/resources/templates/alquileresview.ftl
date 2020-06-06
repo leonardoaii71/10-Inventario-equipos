@@ -243,7 +243,7 @@
             },
             data: JSON.stringify(alquileres),
 
-        }).success(function (data, textStatus) {
+        }).success(function(data, textStatus){
             if (data) {
                 // data.redirect contains the string URL to redirect to
                 window.location.href = data;
